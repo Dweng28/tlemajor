@@ -10,8 +10,8 @@
   <FRAME src="red.html">
   <FRAMESET ROWS="100,100">
   <FRAME src="green.html">
-  <FRAME SRC="YELLOW.HTML">
+  <FRAME SRC="yellow.html">
   </FRAMESET>
-  <frame src="C:\Users\HOME\Desktop\major pt html\ok.jpg">
+  <frame src="ok.jpg">
 </FRAMESET>
 </HTML>
